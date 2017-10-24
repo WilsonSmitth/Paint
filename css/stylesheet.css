@@ -1,0 +1,36 @@
+.newCanvas {
+    background-color: #490417;
+    width: 200px;
+    border-radius: 5px;
+    margin-left: 45px;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.btn
+{
+    color: white;
+}
+
+.shadowed
+{
+    box-shadow: : 5px 5px 5px grey;
+    margin-top: -5px;
+}
+
+.field
+{
+    border-style:solid;
+    border-width: 1px;
+    margin:auto;
+    width: 800px;
+    height:800px;
+}
+
+.cell
+{
+    background-color: black;
+    opacity:0;
+    border-width: 0px;
+    margin: 0px;
+}
